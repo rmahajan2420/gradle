@@ -6,6 +6,7 @@ https://spring.io/guides/gs/gradle/
 
 https://docs.gradle.org/current/userguide/tutorial_using_tasks.html
 
+http://rominirani.com/2014/08/12/gradle-tutorial-part-4-java-web-applications/
 
 https://docs.gradle.org/current/userguide/userguide.html
 
